@@ -1,6 +1,8 @@
 Book: Internet of Things - Principles and Paradigms
 Author: 
 
-Part 1: 
-Chapter 1 : 
+Part 1: IoT ECOSYSTEM CONCEPTS AND ARCHITECTURES
+Chapter 1 :  INTERNET OF THINGS: 
+AN OVERVIEW
 __________________________
+ 
