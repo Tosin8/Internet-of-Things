@@ -5,4 +5,12 @@ Part 1: IoT ECOSYSTEM CONCEPTS AND ARCHITECTURES
 Chapter 1 :  INTERNET OF THINGS: 
 AN OVERVIEW
 __________________________
+1.1 Introduction
+Internet:  refers to the vast category of applications and protocols
+ built on top of sophisticated and interconnected computer networks, serving billions 
+of users around the world in 24/7 fashion.
+Subsequently, the focus has shifted toward a seamless integration 
+of people and devices to converge the physical realm with human-made virtual environments, 
+creating the so- called Internet of Things (IoT) utopia.
+
  
