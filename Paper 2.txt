@@ -1,3 +1,6 @@
 Book: A-Z of Internet of Things
 Author: 
 _________________________________
+Part 4: Application Domain
+Chapter : 11 ( The industrial Internet of things ) 
+
