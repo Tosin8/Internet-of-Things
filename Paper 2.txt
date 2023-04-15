@@ -4,3 +4,4 @@ _________________________________
 Part 4: Application Domain
 Chapter : 11 ( The industrial Internet of things ) 
 
+ 
