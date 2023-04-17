@@ -4,4 +4,7 @@ _________________________________
 Part 4: Application Domain
 Chapter : 11 ( The industrial Internet of things ) 
 
+Chapter:12 - Internet of things for smart cities. 
+
+
  
